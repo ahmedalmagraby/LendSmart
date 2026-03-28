@@ -1,20 +1,49 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+
+# LendSmart AI - Advanced Loan Calculator
+
+A modern, highly interactive, and bilingual loan calculator application designed to help users model and understand their loan options with advanced financial strategies. 
+
 </div>
 
-# Run and deploy your AI Studio app
+## 📖 Overview
 
-This contains everything you need to run your app locally.
+LendSmart is an advanced loan calculation tool that goes beyond standard calculators. Whether you want to calculate your monthly installment based on a loan amount or determine the maximum loan you can afford based on a target monthly payment, LendSmart provides the answers. It features interactive charts, detailed amortization schedules, and supports both fixed and reducing interest strategies.
 
-View your app in AI Studio: https://ai.studio/apps/7cd770f1-d69b-4c5c-bc94-7dcafc88fda5
+## ✨ Features
 
-## Run Locally
+* **Dual Calculation Modes:** * Calculate **Monthly Installment** based on a desired loan amount.
+  * Calculate maximum **Loan Amount** based on a target monthly payment.
+* **Flexible Input Options:**
+  * Support for Down Payments in exact amounts or percentages.
+  * Define loan terms in either Months or Years.
+* **Interest Rate Strategies:** Toggle between **Fixed** and **Reducing** interest calculations.
+* **Interactive Visualizations:** View principal vs. interest breakdown and payment progression through interactive charts.
+* **Detailed Amortization Schedule:** A month-by-month breakdown of your payments, interest, and remaining balance.
+* **Localization & Accessibility:** * Full bilingual support with English (LTR) and Arabic (RTL) out of the box.
+  * Seamless Dark/Light mode toggling.
 
-**Prerequisites:**  Node.js
+## 🛠️ Tech Stack
 
+* **Framework:** [React 19](https://react.dev/)
+* **Build Tool:** [Vite](https://vitejs.dev/)
+* **Language:** [TypeScript](https://www.typescriptlang.org/)
+* **Styling:** Tailwind CSS (via utility classes)
+* **Data Visualization:** [Recharts](https://recharts.org/)
+* **Icons:** [Lucide React](https://lucide.dev/)
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🚀 Getting Started
+
+Follow these instructions to get the project up and running on your local machine.
+
+### Prerequisites
+
+* [Node.js](https://nodejs.org/) (Recommended version 18+ or 20+)
+* npm (comes with Node.js)
+
+### Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone <repository-url>
+   cd lendsmart
