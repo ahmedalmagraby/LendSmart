@@ -24,28 +24,3 @@ LendSmart is an advanced loan calculation tool that goes beyond standard calcula
 * **Localization & Accessibility:**
   * Full bilingual support with English (LTR) and Arabic (RTL) out of the box.
   * Seamless Dark/Light mode toggling.
-
-## 🛠️ Tech Stack
-
-* **Framework:** [React 19](https://react.dev/)
-* **Build Tool:** [Vite](https://vitejs.dev/)
-* **Language:** [TypeScript](https://www.typescriptlang.org/)
-* **Styling:** Tailwind CSS (via utility classes)
-* **Data Visualization:** [Recharts](https://recharts.org/)
-* **Icons:** [Lucide React](https://lucide.dev/)
-
-## 🚀 Getting Started
-
-Follow these instructions to get the project up and running on your local machine.
-
-### Prerequisites
-
-* [Node.js](https://nodejs.org/) (Recommended version 18+ or 20+)
-* npm (comes with Node.js)
-
-### Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone <repository-url>
-   cd lendsmart
