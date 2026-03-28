@@ -12,7 +12,8 @@ LendSmart is an advanced loan calculation tool that goes beyond standard calcula
 
 ## ✨ Features
 
-* **Dual Calculation Modes:**  Calculate **Monthly Installment** based on a desired loan amount.
+* **Dual Calculation Modes:**
+  * Calculate **Monthly Installment** based on a desired loan amount.
   * Calculate maximum **Loan Amount** based on a target monthly payment.
 * **Flexible Input Options:**
   * Support for Down Payments in exact amounts or percentages.
