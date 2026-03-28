@@ -21,7 +21,8 @@ LendSmart is an advanced loan calculation tool that goes beyond standard calcula
 * **Interest Rate Strategies:** Toggle between **Fixed** and **Reducing** interest calculations.
 * **Interactive Visualizations:** View principal vs. interest breakdown and payment progression through interactive charts.
 * **Detailed Amortization Schedule:** A month-by-month breakdown of your payments, interest, and remaining balance.
-* **Localization & Accessibility:** * Full bilingual support with English (LTR) and Arabic (RTL) out of the box.
+* **Localization & Accessibility:**
+  * Full bilingual support with English (LTR) and Arabic (RTL) out of the box.
   * Seamless Dark/Light mode toggling.
 
 ## 🛠️ Tech Stack
