@@ -1,0 +1,5 @@
+{
+  "name": "LendSmart - Advanced Loan Calculator",
+  "description": "A comprehensive loan calculator supporting fixed and reducing interest rates, amortization schedules, and principal discovery from target installments.",
+  "requestFramePermissions": []
+}
